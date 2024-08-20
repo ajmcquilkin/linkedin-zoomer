@@ -1,33 +1,41 @@
-This is a [Plasmo extension](https://docs.plasmo.com/) project bootstrapped with [`plasmo init`](https://www.npmjs.com/package/plasmo).
+# LinkedIn Zoomer: Because Subtlety is Overrated
 
-## Getting Started
+## What is this?
 
-First, run the development server:
+LinkedIn Zoomer is a revolutionary browser extension that solves the age-old problem of not being able to see every pore on your professional connections' faces. We believe that true networking happens when you can count the individual hairs in someone's eyebrows.
 
-```bash
-pnpm dev
-# or
-npm run dev
-```
+## Features
 
-Open your browser and load the appropriate development build. For example, if you are developing for the chrome browser, using manifest v3, use: `build/chrome-mv3-dev`.
+- Transforms all profile pictures into a work of modern art
+- Ensures you never miss a single detail in anyone's selfie
+- Adds an element of surprise to your LinkedIn browsing experience
 
-You can start editing the popup by modifying `popup.tsx`. It should auto-update as you make changes. To add an options page, simply add a `options.tsx` file to the root of the project, with a react component default exported. Likewise to add a content page, add a `content.ts` file to the root of the project, importing some module and do some logic, then reload the extension on your browser.
+## Installation
 
-For further guidance, [visit our Documentation](https://docs.plasmo.com/)
+1. Clone this repo
+2. Install dependencies with `pnpm install`
+3. Build the extension with `pnpm build`
+4. Load it into your browser
+5. Watch your professional life transform before your very eyes
 
-## Making production build
+## Usage
 
-Run the following:
+Simply browse LinkedIn as you normally would, but prepare for a whole new level of "professional" interaction. Remember, if you can't see what your connection had for breakfast through their profile picture, you're not zoomed in enough.
 
-```bash
-pnpm build
-# or
-npm run build
-```
+## Privacy
 
-This should create a production bundle for your extension, ready to be zipped and published to the stores.
+We respect your privacy as much as this extension respects personal space. Which is to say, not at all.
 
-## Submit to the webstores
+## Disclaimer
 
-The easiest way to deploy your Plasmo extension is to use the built-in [bpp](https://bpp.browser.market) GitHub action. Prior to using this action however, make sure to build your extension and upload the first version to the store to establish the basic credentials. Then, simply follow [this setup instruction](https://docs.plasmo.com/framework/workflows/submit) and you should be on your way for automated submission!
+We are not responsible for any lost connections, restraining orders, or existential crises that may result from using this extension. Use at your own risk.
+
+## Contributing
+
+Found a way to zoom even further? Want to add a feature that automatically comments "Nice picture!" on every post? We welcome all contributions, no matter how unnecessary they may seem!
+
+## License
+
+This project is licensed under the "Why Would Anyone Else Want This" License.
+
+Remember, in the world of LinkedIn Zoomer, there's no such thing as too close for comfort!
