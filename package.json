@@ -1,7 +1,7 @@
 {
   "name": "linkedin-zoomer",
   "displayName": "LinkedIn Zoomer",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "description": "An extension to zoom in all profile images on LinkedIn. Tastefully, of course.",
   "author": "Adam McQuilkin",
   "scripts": {
